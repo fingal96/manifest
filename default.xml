@@ -1,1 +1,6 @@
-< todo: make a manifest here >
+<?xml version="1/0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="git@github.com/fingal96"/>
+
+	<project name="repo-test" path="repo-test"/>
+</manifest>
